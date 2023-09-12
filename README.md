@@ -12,7 +12,7 @@
 
 - :technologist: I love using software as a solution for every `problem` and learn a `new things`.
 - :boom: You can visit [MY WEBSITE](https://wildy13.github.io/wildy/).
-
+- :boom: You can download [MY RESUME](https://github.com/wildy13/wildy13/blob/master/pdf/CV%20Wildy%20Johannes%20Simanjuntak.pdf)
 ## My Skills
 
 ### Backend Development
