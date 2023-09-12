@@ -1,7 +1,21 @@
 <h1 align="center">Hi, I'm Wildy Johanes Simanjuntak</h1>
+<p align="center">
+  <a href="https://instagram.com/jo.14m">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="mailto:wildy.simanjuntak13@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://id.linkedin.com/in/wildy-simanjuntak-181a691a4">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.threads.net/@jo.14m">
+    <img alt="Threads" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white">
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://id.linkedin.com/in/wildy-simanjuntak-181a691a4">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Web+Developers;Competitive+Programmer;Always+learning+new+things">
   </a>
 </p>
