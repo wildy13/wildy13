@@ -13,6 +13,7 @@
 - :technologist: I love using software as a solution for every `problem` and learn a `new things`.
 - :boom: You can visit [MY WEBSITE](https://wildy13.github.io/wildy/).
 - :boom: You can download [MY RESUME](https://github.com/wildy13/wildy13/blob/master/pdf/CV%20Wildy%20Johannes%20Simanjuntak.pdf)
+
 ## My Skills
 
 ### Backend Development
@@ -27,6 +28,8 @@
  &emsp;
    <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
  &emsp;
+   <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+ &emsp;
 </p>
 
 ### Frontend Development
@@ -35,8 +38,10 @@
   &emsp; 
      <img alt="Nuxt JS" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
   &emsp;
-     <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
- &emsp;
+     <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  &emsp;
+     <img alt="Windi CSS" src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white">
+  &emsp;
 </p>
 
 ### Design
@@ -47,7 +52,23 @@
   &emsp;
 </p>
 
+### Others
+
+<p align="center"> 
+  &emsp; 
+     <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+  &emsp;
+  &emsp; 
+     <img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
+  &emsp;
+     <img alt="WebGl" src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge">
+  &emsp;
+     <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+  &emsp;
+</p>
+
 ## My Profile
+
 ### Github Profile Stats
 
 <p align="center">
@@ -62,4 +83,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=wildy13&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="wildy13" />
   </a> 
 </p>
-
