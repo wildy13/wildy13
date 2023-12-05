@@ -44,6 +44,12 @@
  &emsp;
    <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
  &emsp;
+    &emsp;
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+ &emsp;
+  &emsp;
+   <img alt="Fastify" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white">
+ &emsp;
 </p>
 
 ### Frontend Development
