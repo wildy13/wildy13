@@ -25,7 +25,7 @@
 <br><br>
 
 - :technologist: I love using software as a solution for every `problem` and learn a `new things`.
-- :boom: You can visit [MY WEBSITE](https://wildy-johannes/vercel.app).
+- :boom: You can visit [MY WEBSITE](https://wildy-johannes.vercel.app).
 
 ## My Skills
 
