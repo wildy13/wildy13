@@ -52,17 +52,13 @@
 - [**Three.js Archive**](https://archieve-wildy13.vercel.app/)  
   A curated collection of my Three.js experiments, demos, and creative code—explore interactive 3D and 2D works!
 
-- **2D Game Development**  
-  Passionate about creating engaging 2D games, from prototyping to polished releases. (Showcase your 2D game projects here!)
-
 ---
 
 ## 📬 Get in Touch
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://wildy-johanes.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/wildy-simanjuntak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
