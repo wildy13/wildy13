@@ -1,104 +1,82 @@
-<h1 align="center">Hi, I'm Wildy Johanes Simanjuntak</h1>
+<!-- Banner: Replace with your actual 2D banner or avatar -->
+<!--
 <p align="center">
-  <a href="https://instagram.com/jo.14m">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  <a href="mailto:wildy.simanjuntak13@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://id.linkedin.com/in/wildy-simanjuntak-181a691a4">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.threads.net/@jo.14m">
-    <img alt="Threads" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white">
-  </a>
-</p>
+  <img src="https://raw.githubusercontent.com/wildy13/wildy13/main/assets/banner-2d.png" alt="Wildy Banner" width="80%" />
+</p> -->
 
+<h1 align="center">Hi, I'm Wildy 👋</h1>
 <p align="center">
-  <a href="https://id.linkedin.com/in/wildy-simanjuntak-181a691a4">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Web+Developers;Competitive+Programmer;Always+learning+new+things">
-  </a>
+  <b>Software Engineer</b> | 3D/2D Interactive Experiences | Web & Game Development
 </p>
 
-## <picture><img src="./images/about_me.gif" width=50px /></picture> About Me
+---
 
-<br><br>
-
-- :technologist: I love using software as a solution for every `problem` and learn a `new things`.
-- :boom: You can visit [MY WEBSITE](https://wildy-johannes.vercel.app).
-
-## My Skills
-
-### Backend Development
-
-<p align="center"> 
-  &emsp; 
-     <img alt="Node JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  &emsp;
-     <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
- &emsp;
-  <img alt="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
- &emsp;
-   <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
- &emsp;
-   <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
- &emsp;
-    &emsp;
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
- &emsp;
-  &emsp;
-   <img alt="Fastify" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white">
- &emsp;
-</p>
-
-### Frontend Development
-
-<p align="center"> 
-  &emsp; 
-     <img alt="Nuxt JS" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
-  &emsp;
-     <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  &emsp;
-     <img alt="Windi CSS" src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white">
-  &emsp;
-</p>
-
-### Design
-
-<p align="center"> 
-  &emsp; 
-     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  &emsp;
-</p>
-
-### Others
-
-<p align="center"> 
-  &emsp; 
-     <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  &emsp;
-  &emsp; 
-     <img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
-  &emsp;
-     <img alt="WebGl" src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge">
-  &emsp;
-     <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
-  &emsp;
-</p>
-
-## My Profile
-
-### Github Profile Stats
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wildy13&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="wildy13" height="400px"/>
-  <img alt="wildy13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wildy13&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+  <img src="https://img.shields.io/badge/Nuxt-00C58E?logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000?logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-20232a?logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-black?logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-222?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
 </p>
 
-### Git Profile Thropies
+---
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wildy13&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="wildy13" />
-  </a> 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wildy13&show_icons=true&theme=radical" alt="Wildy GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy13&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=wildy13&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=wildy13&row=1&theme=radical" alt="Profile Trophies" />
+</p>
+
+---
+
+## 🧩 What I Do
+
+- Craft immersive 3D and **2D web/game experiences** using **Three.js** and **Unity**
+- Build modern, high-performance full-stack applications with **Nuxt**, **Node.js**, **Bun**, and **Fastify**
+- Design elegant, responsive interfaces with **Tailwind CSS**
+- Explore new technologies and frameworks to push creative boundaries
+
+---
+
+## 🌟 Featured Projects
+
+- [**Three.js Archive**](https://archieve-wildy13.vercel.app/)  
+  A curated collection of my Three.js experiments, demos, and creative code—explore interactive 3D and 2D works!
+
+- **2D Game Development**  
+  Passionate about creating engaging 2D games, from prototyping to polished releases. (Showcase your 2D game projects here!)
+
+---
+
+## 📬 Get in Touch
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+<details>
+  <summary>🖌️ <b>Fun Facts & 2D Interests</b></summary>
+  
+  - I enjoy designing 2D graphics, games, and animations as much as coding!
+  - Always up for a game jam or hackathon—especially those with creative/artistic twists.
+  - Exploring the intersection of code, art, and interactivity.
+</details>
+
+---
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
 </p>
