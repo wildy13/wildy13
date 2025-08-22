@@ -49,8 +49,8 @@
 
 ## 🌟 Featured Projects
 
-- [**Three.js Archive**](https://archieve-wildy13.vercel.app/)  
-  A curated collection of my Three.js experiments, demos, and creative code—explore interactive 3D and 2D works!
+- [**Three.js Archive**](https://three-dash-lyart.vercel.app)  
+A curated collection of Three.js-powered templates, VR/AR experiences, and interactive 3D demos—explore ready-to-use 3D components and creative experiments!
 
 ---
 
